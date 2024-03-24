@@ -1,0 +1,3 @@
+kodovi za zadacu iz autonomnih sustava
+jedan cvor koji objavljuje brojeve na temu /broj
+drugi cvor koji je pretplacen na /broj i dobivene brojeve kvadrira i objavljuje ih na temu /kvadrat_broja
